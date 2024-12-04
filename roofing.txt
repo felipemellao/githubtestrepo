@@ -1,4 +1,3 @@
 solar roof
 solar panels
-chimney hello
 test text merge
